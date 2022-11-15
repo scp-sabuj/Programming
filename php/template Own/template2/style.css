@@ -1,0 +1,189 @@
+body {
+	margin: 0;
+	padding: 0;
+	line-height: 0em;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	background: #000000 url(images/templatemo_main_bg.jpg) repeat-y center;
+}
+#background{
+	width: auto;
+
+}
+#logo{
+	width: 960px;
+	color: #CCCCCC;
+	margin: 35px auto;
+	height: 118px;
+}
+#image {
+	float:left;
+	width:auto;
+}
+#icon ul{
+
+	float: right;
+	
+}
+#icon ul li{
+	margin-left: 90px;
+	list-style: none;
+	float: right;
+	
+}
+#icon ul li a {
+	
+}
+#icon ul li a:hover {
+	
+}
+
+#body {
+	padding: 0;
+	width: 960px;
+	margin: auto;
+	height: 370px;
+	background: #FFFFFF;
+	display: block;
+}
+#body_left {
+	width: 615px;
+	margin-top: 80px;
+	margin-left: 35px;
+	float: left;
+}
+#body_left h1 {
+	font-size: 45px;
+	color: orange;
+	margin-bottom: 50px;
+}
+#body_left p {
+	font-size: 30px;
+	line-height: 35px;
+}
+#body_left span {
+	color: #e88d23;
+}
+
+#body_right {
+	width: 100px;
+	margin-top: 135px;
+	margin-right: 185px;
+	float: right;
+}
+
+#button a {
+	display: block;
+	width: 164px;
+	height: 34px;
+	padding: 20px 0 0 0;
+	color: #e88d23;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	background: url(images/templatemo_button_01.png) no-repeat;
+}
+
+#button a:hover {
+	color: #ffffff;
+	background: url(images/templatemo_button_01_hover.png) no-repeat;
+}
+
+#menue_bg {
+	width: 960px;
+	background: url("images/templatemo_menu_bg_wrapper.jpg") no-repeat;
+	margin: auto;
+	height: 120px;
+}
+#menue_list {
+	margin: auto;
+	float: left;
+	margin-top: 44px;
+}
+#menue_list li {
+	float: left;
+	margin-left: 95px;
+	font-size: 20px;
+	list-style: none;
+}
+#menue_list li a {
+	color: #ffffff;
+	text-decoration: none;
+}
+#menue_list li a:hover {
+	background: url("images/templatemo_menu_mouse_hover.png") center no-repeat;
+}
+#template_content {
+	width: 960px;
+	margin: auto;
+	height: 211px;
+}
+#content {
+	float: left;
+	width: 960px;
+	line-height: 22px;
+	margin-bottom: 10px;
+	background: url("images/templatemo_content_bg.jpg") center repeat-y;
+	height: 211px;
+}
+#business_promote {
+	float: left;
+	width: 310px;
+	margin-left: 5px;
+}
+#website_analytic{
+	float: left;
+	width: 310px;
+	margin-left: 10px;
+}
+#onlline_marketing{
+	float: left;
+	width: 310px;
+	margin-left: 10px;
+	margin-right: 5px
+}
+#button a:hover {
+	color: #ffffff;
+	background: url(images/templatemo_button_01_hover.png) no-repeat;
+}
+
+#button_02 a {
+	display: block;
+	width: 82px;
+	height: 20px;
+	padding: 1px 0 0 0;
+	color: #e88d23;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	background: url(images/templatemo_button_02.png) no-repeat;
+}
+
+#button_02 a:hover {
+	color: #ffffff;
+	background: url(images/templatemo_button_02_hover.png) no-repeat;
+}
+#blog_div_wrrapper {
+	margin: auto;
+	width: 960px;
+	height: 355px;
+	background: url("images/templatemo_content_bg.jpg") center repeat-y;
+}
+#blog_div {
+	float: left;
+	line-height: 16px;
+	margin-left: 30px;
+	width: 450px;
+}
+#news_box{
+
+}
+#blog_div_right{
+	float: left;
+	line-height: 16px;
+	margin-left: 30px;
+	width: 450px;
+}

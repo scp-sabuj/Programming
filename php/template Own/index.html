@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The green template...</title>
+	<link rel="stylesheet" type="text/css" href="style2.css">
+
+	<script type="text/javascript">
+		function clearText(field)
+		{
+			if (field.defaultValue == field.value) field.value = '';
+		    else if (field.value == '') field.value = field.defaultValue;
+		}
+	</script>
+</head>
+<body>
+
+<div id="template_hearder_wrapper">
+	
+	<div id="templatemo_header">
+		
+		<div id="site_title">
+	        <a href="http://www.templatemo.com">
+	       	<img src="images/templatemo_logo.png"/>
+	        </a>
+	        <h1><a href="http://www.templatemo.com"><span>free css templates</span></a></h1>
+
+    	</div>
+
+    	<div id="templatemo_menu">
+            <ul>
+                <li><a href="#" class="current">Home</a></li>
+                <li><a href="http://www.templatemo.com/page/1" target="_parent">Templates</a></li>
+                <li><a href="http://www.flashmo.com" target="_parent">Flash</a></li>
+                <li><a href="http://www.koflash.com" target="_parent">Gallery</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>    	
+        </div>
+
+        <div id="search_box">
+                <form action="#" method="get">
+                    <input type="text" value="Enter a keyword" name="q" size="10" id="searchfield" title="searchfield" onfocus="clearText(this)" onblur="clearText(this)" />
+                </form>
+        </div>
+
+	</div>	
+
+</div>
+
+
+
+<div id="templatemo_content_wrapper">
+	
+	<div id="feature_food">
+	<h2>Featured Products</h2>
+	<img src="images/templatemo_header_bg.png">
+
+	<ul>
+		<li>
+			<h3>Vestibulum urna ipsum</h3>
+	        <img src="images/image_02.jpg" alt="product" />
+	        <p>Price: $180</p>
+	        <a href="#">Detail</a> | <a href="#">Add to cart</a>
+		</li>
+
+		<li>
+			<h3>Aliquam sollicitudin</h3>
+            <img src="images/image_03.jpg" alt="product" />
+            <p>Price: $240</p>
+            <a href="#">Detail</a> | <a href="#">Add to cart</a>
+		</li>
+				
+		<li>
+			<h3>Pellentesque habitant </h3>
+	        <img src="images/image_04.jpg" alt="product" />
+	                
+	        <p>Price: $120</p>
+	        <a href="#">Detail</a> | <a href="#">Add to cart</a>
+		</li>
+
+	</ul>
+	<div class="button_01"><a href="#">View All</a></div>
+	</div>
+
+
+
+
+	<div id="catagory">
+	<h2>Categories</h2>
+	<img src="images/templatemo_header_bg.png">
+                    
+    <ul class="categories_list">
+        <li><img src="images/templatemo_list.png"> <a href="#">Lorem ipsum dolor</a></li>
+        <li><img src="images/templatemo_list.png"> <a href="#">Phasellus eget lorem</a></li>
+        <li><img src="images/templatemo_list.png"> <a href="#">Sed sit amet sem</a></li>
+        <li><img src="images/templatemo_list.png"> <a href="#">Cras eget est vel</a></li>
+        <li><img src="images/templatemo_list.png"> <a href="#">Quisque in ligula</a></li>
+        <li><img src="images/templatemo_list.png"> <a href="#">Donec a massa dui</a></li>
+        <li><img src="images/templatemo_list.png"> <a href="#">Aenean facilisis</a></li>
+        <li><img src="images/templatemo_list.png"> <a href="#">Etiam vitae consequat</a></li>
+        <li><img src="images/templatemo_list.png"> <a href="#">Aliquam sollicitudin</a></li>
+        <li><img src="images/templatemo_list.png"> <a href="#">Nunc fermentum</a></li>
+    </ul>
+    </div>
+
+
+</div>
+
+</body>
+</html>
