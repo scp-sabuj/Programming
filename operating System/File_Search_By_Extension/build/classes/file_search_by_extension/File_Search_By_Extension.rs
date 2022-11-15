@@ -1,0 +1,3 @@
+file_search_by_extension.GetAllFilesInDirectoryBasedOnExtensions
+file_search_by_extension.FindCertainExtension$GenericExtFilter
+file_search_by_extension.FindCertainExtension
