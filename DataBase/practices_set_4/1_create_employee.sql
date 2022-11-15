@@ -1,0 +1,1 @@
+CREATE TABLE employee(personName varchar(50),street varchar(20),city varchar(20),PRIMARY KEY(personName));

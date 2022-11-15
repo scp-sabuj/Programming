@@ -1,0 +1,1 @@
+CREATE TABLE company(companyName varchar(50),city varchar(20),PRIMARY KEY(companyName));

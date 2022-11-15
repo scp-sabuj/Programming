@@ -1,0 +1,1 @@
+CREATE TABLE section (id_section_table int,course_id varchar(8),sec_id varchar(8),semester varchar(6),year int,building varchar(15),room_number varchar(7),time_slot_id varchar(4),PRIMARY KEY (id_section_table),foreign KEY (course_id)references course);

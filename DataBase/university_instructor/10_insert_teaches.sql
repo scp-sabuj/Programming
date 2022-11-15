@@ -1,0 +1,10 @@
+INSERT all INTO teaches (ID, id_section_table) VALUES('1111', 1)
+INTO teaches (ID, id_section_table) VALUES('1111', 2)
+INTO teaches (ID, id_section_table) VALUES('3122', 3)
+INTO teaches (ID, id_section_table) VALUES('1234', 4)
+INTO teaches (ID, id_section_table) VALUES('2345', 5)
+INTO teaches (ID, id_section_table) VALUES('7632', 6)
+INTO teaches (ID, id_section_table) VALUES('7632', 7)
+INTO teaches (ID, id_section_table) VALUES('3122', 8)
+INTO teaches (ID, id_section_table) VALUES('1234', 9)
+select * from dual;

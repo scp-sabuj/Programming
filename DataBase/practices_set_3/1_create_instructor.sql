@@ -1,0 +1,1 @@
+CREATE TABLE instructor(ID varchar(5),name varchar(20),dept_name varchar(20),salary double, PRIMARY KEY(dept_name));
